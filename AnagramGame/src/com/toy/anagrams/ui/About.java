@@ -64,6 +64,7 @@ public class About extends JDialog {
     private void initComponents() {//GEN-BEGIN:initComponents
         java.awt.GridBagConstraints gridBagConstraints;
 
+        System.out.println("adfefadf");
         mainPanel = new javax.swing.JPanel();
         copyrightTextArea = new javax.swing.JTextArea();
         closeButton = new javax.swing.JButton();
